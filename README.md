@@ -7,9 +7,10 @@
 ![Carlos Eduardo stats](https://github-readme-stats.vercel.app/api?username=pcfeduardo&show_icons=true&theme=default)
 
 - 🇧🇷 I'm from Brazil;
-- ⌛ I'm 15 years old in the Technology area;
-- 🌱 I am currently preparing for AWS Solutions Architect, AWS DevOps Engineer and Kubernets Certified Administrator (CKA);
-- 🔭 I’m currently IT Manager at System Group: [System Idiomas](https://systemidiomas.com.br), [Systemic](http://systemic.com.br), [System Tours](http://systemtours.com.br), and [Global Faces](http://globalfaces.education);
+- ⌛ I'm 15 years old in the technology area;
+- 🌱 I am currently preparing for AWS Solutions Architect and AWS DevOps Engineer;
+- 👨🏻‍💻 I currently work as a DevOps Engineer 
+- 📍 Certified in HashiCorp Certified: Terraform Associate;
 - 📍 Certified in EXIN DevOps Professional;
 - 📍 Certified in IBM Cybersecurity IT Fundamentals Specialist;
 - 📍 Certified in COBIT® 5 Foundation;
