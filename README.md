@@ -9,8 +9,8 @@
 - 🇧🇷 I'm from Brazil;
 - ⌛ I'm 15 years old in the technology area;
 - 🌱 I am currently preparing for AWS Solutions Architect and AWS DevOps Engineer;
-- 👨🏻‍💻 I currently work as a DevOps Engineer 
-- 📍 Certified in CKA: Certified Kubernetes Administrator
+- 👨🏻‍💻 I currently work as a DevOps Engineer;
+- 📍 Certified in CKA: Certified Kubernetes Administrator;
 - 📍 Certified in HashiCorp Certified: Terraform Associate;
 - 📍 Certified in EXIN DevOps Professional;
 - 📍 Certified in IBM Cybersecurity IT Fundamentals Specialist;
