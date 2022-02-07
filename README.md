@@ -7,9 +7,10 @@
 ![Carlos Eduardo stats](https://github-readme-stats.vercel.app/api?username=pcfeduardo&show_icons=true&theme=default)
 
 - 🇧🇷 I'm from Brazil;
-- ⌛ I'm 15 years old in the technology area;
-- 🌱 I am currently preparing for AWS Solutions Architect and AWS DevOps Engineer;
+- ⌛ I'm 16 years old in the technology area;
+- 🌱 I am currently preparing (2022) for Docker Certified Associate (DCA), AWS SysOps Administrator and AWS DevOps Engineer;
 - 👨🏻‍💻 I currently work as a DevOps Engineer;
+- 📍 Certified in AWS Solutions Architect Associate;
 - 📍 Certified in CKA: Certified Kubernetes Administrator;
 - 📍 Certified in HashiCorp Certified: Terraform Associate;
 - 📍 Certified in EXIN DevOps Professional;
