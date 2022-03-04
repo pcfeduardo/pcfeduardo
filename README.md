@@ -24,7 +24,7 @@
 - 🎓 Specialist in IT Cloud Computing at [PUC/MG](https://www.pucminas.br/) (2021-2022);
 - 🎓 Specialist in IT Management and Governance at [PUC/MG](https://www.pucminas.br/) (2019-2020);
 - 🎓 Specialist in Software Engineering at [CESMAC](https://www.cesmac.edu.br) (2012);
-- 🎓 Technologist in Computer Networks at [CESMAC](https://www.cesmac.edu.br) (2006-2012).
+- 🎓 Systems Analyst (Bachelor's Degree) at [CESMAC](https://www.cesmac.edu.br) (2006-2012).
 
 ℹ️ For more information see my resume on the [Linkedin](https://www.linkedin.com/in/pcfeduardo).
 
