@@ -4,7 +4,9 @@
 **pcfeduardo/pcfeduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Carlos Eduardo stats](https://github-readme-stats.vercel.app/api?username=pcfeduardo&show_icons=true&theme=default)
+![Carlos Eduardo stats](https://github-readme-stats.vercel.app/api?username=pcfeduardo&show_icons=true&theme=default&count_private=true)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcfeduardo&layout=compact)](https://github.com/pcfeduardo/) -->
 
 - 🇧🇷 I'm from Brazil;
 - ⌛ I'm 16 years old in the technology area;
