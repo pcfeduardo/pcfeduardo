@@ -9,13 +9,20 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcfeduardo&layout=compact)](https://github.com/pcfeduardo/) -->
 
 - 🇧🇷 I'm from Brazil;
-- ⌛ I'm 16 years old in the technology area;
-- 🌱 I am currently preparing (2022) for AWS SysOps Administrator and AWS DevOps Engineer;
-- 👨🏻‍💻 I currently work as a DevOps Engineer;
-- 📍 Certified in Docker Certified Associate (DCA);
-- 📍 Certified in AWS Solutions Architect Associate;
+- ⌛ I'm 17 years old in the technology area;
+- 🌱 I am currently preparing (2023) AWS Certified Solutions Architect Profession and Python Certified;
+- 👨🏻‍💻 I currently work as a Tech Lead - Cloud (SRE / DevOps / Delivery);
+- 📍 Certified in AWS Certified Data Analytics - Specialty;
+- 📍 Certified in AWS Certified DevOps - Professional;
+- 📍 Certified in AWS Certified Developer - Associate;
+- 📍 Certified in AWS Certified SysOps Administrator - Associate;
+- 📍 Certified in AWS Certified Solutions Architect - Associate;
 - 📍 Certified in CKA: Certified Kubernetes Administrator;
+- 📍 Certified in CKAD: Certified Kubernetes Application Developer;
+- 📍 Certified in Docker Certified Associate (DCA);
 - 📍 Certified in HashiCorp Certified: Terraform Associate;
+- 📍 Certified in Certified Jenkins Engineer;
+- 📍 Certified in Microsoft Certifeid: Azure Fundamentals (AZ-900);
 - 📍 Certified in EXIN DevOps Professional;
 - 📍 Certified in IBM Cybersecurity IT Fundamentals Specialist;
 - 📍 Certified in COBIT® 5 Foundation;
