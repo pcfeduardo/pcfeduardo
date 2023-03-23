@@ -11,7 +11,7 @@
 - 🇧🇷 I'm from Brazil;
 - ⌛ I'm 17 years old in the technology area;
 - 🌱 I am currently preparing (2023) AWS Certified Solutions Architect Profession and Python Certified;
-- 👨🏻‍💻 I currently work as a Tech Lead - Cloud (SRE / DevOps / Delivery);
+- 👨🏻‍💻 I currently work as a Cloud Services Manager;
 - 📍 Certified in AWS Certified Data Analytics - Specialty;
 - 📍 Certified in AWS Certified DevOps - Professional;
 - 📍 Certified in AWS Certified Developer - Associate;
